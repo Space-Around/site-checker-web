@@ -1,0 +1,10 @@
+screenshots/
+web/static/screenshots/
+web/venv/
+web/alfa_bee.db
+alfa_bee.db
+chromedriver.exe
+content.txt
+kw.csv
+kw_links.csv
+kw_links_screenshots.csv
